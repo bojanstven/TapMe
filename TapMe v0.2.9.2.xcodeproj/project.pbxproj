@@ -128,7 +128,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 346F25682B1E17E30062BD8F /* Build configuration list for PBXProject "TapMe v0.2.9.1" */;
+			buildConfigurationList = 346F25682B1E17E30062BD8F /* Build configuration list for PBXProject "TapMe v0.2.9.2" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -318,7 +318,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.2.9.1;
+				MARKETING_VERSION = 0.2.9.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.bojanstven.TapMe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -349,7 +349,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.2.9.1;
+				MARKETING_VERSION = 0.2.9.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.bojanstven.TapMe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -361,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		346F25682B1E17E30062BD8F /* Build configuration list for PBXProject "TapMe v0.2.9.1" */ = {
+		346F25682B1E17E30062BD8F /* Build configuration list for PBXProject "TapMe v0.2.9.2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				346F257E2B1E17E40062BD8F /* Debug */,
